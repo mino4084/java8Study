@@ -1,4 +1,4 @@
-package me.study.java8study;
+package me.study.java8study.chap1_2;
 
 @FunctionalInterface
 public interface RunSomething {
